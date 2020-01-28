@@ -1,0 +1,4 @@
+config.py
+.mypy_cache
+.vscode
+.pyc
